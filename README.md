@@ -1,2 +1,2 @@
-# jsondb
+# db
 fake json api
